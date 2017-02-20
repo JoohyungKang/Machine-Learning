@@ -1,3 +1,11 @@
-Week-1. Introduction, Model representation, Parameter learning - Andrew Ng
+# **_WEEK 4_** : Neural Networks - Basic
 
-Slide Link: http://www.slideshare.net/JoohyungKang1/week-1-introduction-model-representation-parameter-learning
+### Reference
+* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+* **Site:** https://www.coursera.org/learn/machine-learning/home/week/4
+
+### Contents
+* _**Neural Networks: Representation**_
+  * Neuron Model
+  * Neural Networks
+  * Multi-class Classification

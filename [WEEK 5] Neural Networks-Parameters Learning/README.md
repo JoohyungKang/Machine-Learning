@@ -1,3 +1,11 @@
-Week-1. Introduction, Model representation, Parameter learning - Andrew Ng
+# **_WEEK 5_** : Neural Networks - Parameters Learning
 
-Slide Link: http://www.slideshare.net/JoohyungKang1/week-1-introduction-model-representation-parameter-learning
+### Reference
+* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+* **Site:** https://www.coursera.org/learn/machine-learning/home/week/5
+
+### Contents
+* _**Neural Networks: Parameters Learning**_
+  * Cost Function
+  * Parameters Learning: Backpropagation Algorithm
+  * Gradient Checking and Random Initialization

@@ -1,3 +1,14 @@
-Week-1. Introduction, Model representation, Parameter learning - Andrew Ng
+# **_WEEK 2_** : Parameters Learning
 
-Slide Link: http://www.slideshare.net/JoohyungKang1/week-1-introduction-model-representation-parameter-learning
+### Reference
+* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+* **Site:** https://www.coursera.org/learn/machine-learning/home/week/2
+
+### Contents
+* _**Multivariate Linear Regression**_
+  * Multiple Features
+  * Gradient Descent for Multiple Variables
+  * Feature Scaling
+  * Features and Polynomial Regression
+* _**Computing Parameters Analytically**_
+  * Normal Equation
