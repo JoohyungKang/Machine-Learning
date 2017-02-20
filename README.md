@@ -1,8 +1,8 @@
 # Machine Learning
 
 ### Reference
-> * Taught by: Andrew Ng, Associate Professor, Stanford University
-> * Site: https://www.coursera.org/learn/machine-learning
+> * **Taught by:** **Andrew Ng**, Associate Professor, Stanford University
+> * **Site:** https://www.coursera.org/learn/machine-learning
 
 ### Contents
 * _**WEEK 1**_ : What's Machine Learning?
