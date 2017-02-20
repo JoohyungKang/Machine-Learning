@@ -1,8 +1,8 @@
 # **_WEEK 2_** : Parameters Learning
 
 ### Reference
-* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
-* **Site:** https://www.coursera.org/learn/machine-learning/home/week/2
+> * **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+> * **Site:** https://www.coursera.org/learn/machine-learning/home/week/2
 
 ### Contents
 * _**Multivariate Linear Regression**_

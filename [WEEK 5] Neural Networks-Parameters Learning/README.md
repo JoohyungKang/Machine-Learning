@@ -1,8 +1,8 @@
 # **_WEEK 5_** : Neural Networks - Parameters Learning
 
 ### Reference
-* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
-* **Site:** https://www.coursera.org/learn/machine-learning/home/week/5
+> * **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+> * **Site:** https://www.coursera.org/learn/machine-learning/home/week/5
 
 ### Contents
 * _**Neural Networks: Parameters Learning**_

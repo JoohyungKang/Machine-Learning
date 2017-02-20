@@ -1,8 +1,8 @@
 # **_WEEK 3_** : Classification and Logistic Regression
 
 ### Reference
-* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
-* **Site:** https://www.coursera.org/learn/machine-learning/home/week/3
+> * **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+> * **Site:** https://www.coursera.org/learn/machine-learning/home/week/3
 
 ### Contents
 * _**Classification and Representation**_
