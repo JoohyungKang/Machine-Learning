@@ -7,14 +7,14 @@
 ### Contents
 * _**WEEK 1**_ : What's Machine Learning?
   > * **Introduction**
-    * What is Machine Learning?
-    * Supervised Learning & Unsupervised Learning
+  >  * What is Machine Learning?
+  >  * Supervised Learning & Unsupervised Learning
   > * **Model and Cost Function**
-    * Model Representation
-    * Cost Function
+  >  * Model Representation
+  >  * Cost Function
   > * **Parameter Learning**
-    * Gradient Descent
-    * Gradient Descent for Linear Regression
+  >  * Gradient Descent
+  >  * Gradient Descent for Linear Regression
 
 * _**WEEK 2**_ : Parameters Learning
   > * **Multivariate Linear Regression**
