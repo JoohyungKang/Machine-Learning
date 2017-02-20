@@ -1,4 +1,4 @@
-## **_WEEK 1_** : What's Machine Learning?
+# **_WEEK 1_** : What's Machine Learning?
 
 ### Reference
 * **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
