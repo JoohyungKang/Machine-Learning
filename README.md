@@ -39,3 +39,15 @@
     * The Problem of Overfitting
     * Regularization: Cost Function
     * Regularized Linear Regression and Logistic Regression
+
+* _**WEEK 4**_ : Neural Networks
+  * **Neural Networks: Representation**
+    * Neuron Model
+    * Neural Networks
+    * Multi-class Classification
+
+* _**WEEK 5**_ : Neural Networks
+  * **Neural Networks: Cost Function and Backpropagation**
+    * Cost Function
+    * Parameters Learning: Backpropagation Algorithm
+    * Gradient Checking and Random Initialization
