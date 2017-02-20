@@ -52,6 +52,6 @@
   >  * Parameters Learning: Backpropagation Algorithm
   >  * Gradient Checking and Random Initialization
 
-  * _**WEEK 6**_ : Advice for Applying Machine Learning
-    > * **...**
-    >  * ...
+* _**WEEK 6**_ : Advice for Applying Machine Learning
+  > * **...**
+  >  * ...
