@@ -9,10 +9,10 @@
   > * **Introduction**
     * What is Machine Learning?
     * Supervised Learning & Unsupervised Learning
-  * **Model and Cost Function**
+  > * **Model and Cost Function**
     * Model Representation
     * Cost Function
-  * **Parameter Learning**
+  > * **Parameter Learning**
     * Gradient Descent
     * Gradient Descent for Linear Regression
 
