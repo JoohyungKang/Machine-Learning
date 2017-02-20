@@ -23,7 +23,7 @@
   >  * Feature Scaling
   >  * Features and Polynomial Regression
   > * **Computing Parameters Analytically**
-  > * Normal Equation
+  >  * Normal Equation
 
 * _**WEEK 3**_ : Classification and Logistic Regression
   > * **Classification and Representation**
