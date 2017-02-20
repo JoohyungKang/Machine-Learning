@@ -1,8 +1,8 @@
 # **_WEEK 1_** : What's Machine Learning?
 
 ### Reference
-* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
-* **Site:** https://www.coursera.org/learn/machine-learning/home/week/1
+> * **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+> * **Site:** https://www.coursera.org/learn/machine-learning/home/week/1
 
 ### Contents
 * _**Introduction**_
