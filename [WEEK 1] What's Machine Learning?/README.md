@@ -1,3 +1,16 @@
-Week-1. Introduction, Model representation, Parameter learning - Andrew Ng
+## **_WEEK 1_** : What's Machine Learning?
 
-Slide Link: http://www.slideshare.net/JoohyungKang1/week-1-introduction-model-representation-parameter-learning
+### Reference
+* **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
+* **Site:** https://www.coursera.org/learn/machine-learning/home/week/1
+
+### Contents
+* _**Introduction**_
+  * What is Machine Learning?
+  * Supervised Learning & Unsupervised Learning
+* _**Model and Cost Function**_
+  * Model Representation
+  * Cost Function
+* _**Parameter Learning**_
+  * Gradient Descent
+  * Gradient Descent for Linear Regression
