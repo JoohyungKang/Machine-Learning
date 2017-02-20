@@ -6,7 +6,7 @@
 
 ### Contents
 * _**WEEK 1**_ : What's Machine Learning?
-  * **Introduction**
+  > * **Introduction**
     * What is Machine Learning?
     * Supervised Learning & Unsupervised Learning
   * **Model and Cost Function**
@@ -17,7 +17,7 @@
     * Gradient Descent for Linear Regression
 
 * _**WEEK 2**_ : Parameters Learning
-  * **Multivariate Linear Regression**
+  > * **Multivariate Linear Regression**
     * Multiple Features
     * Gradient Descent for Multiple Variables
     * Feature Scaling
@@ -26,7 +26,7 @@
    * Normal Equation
 
 * _**WEEK 3**_ : Classification and Logistic Regression
-  * **Classification and Representation**
+  > * **Classification and Representation**
     * Hypothesis Representation
     * Decision Boundary
   * **Logistic Regression Model**
@@ -41,13 +41,13 @@
     * Regularized Linear Regression and Logistic Regression
 
 * _**WEEK 4**_ : Neural Networks
-  * **Neural Networks: Representation**
+  > * **Neural Networks: Representation**
     * Neuron Model
     * Neural Networks
     * Multi-class Classification
 
 * _**WEEK 5**_ : Neural Networks
-  * **Neural Networks: Cost Function and Backpropagation**
+  > * **Neural Networks: Cost Function and Backpropagation**
     * Cost Function
     * Parameters Learning: Backpropagation Algorithm
     * Gradient Checking and Random Initialization
