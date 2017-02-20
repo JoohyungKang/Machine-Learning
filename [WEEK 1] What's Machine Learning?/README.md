@@ -3,7 +3,7 @@
 ### Reference
 * **Taught by:** _**Andrew Ng**_, Associate Professor, Stanford University
 * **Site:** https://www.coursera.org/learn/machine-learning/home/week/1
-### 
+##
 ### Contents
 * _**Introduction**_
   * What is Machine Learning?
