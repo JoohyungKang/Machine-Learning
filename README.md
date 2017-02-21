@@ -53,5 +53,15 @@
   >  * Gradient Checking and Random Initialization
 
 * _**WEEK 6**_ : Advice for Applying Machine Learning
-  > * **...**
-  >  * ...
+  > * **Advice for Applying Machine Learning**
+  >  * Deciding What to Try Next
+  >  * Evaluating a Hypothesis
+  >  * Model Selection and Train/Validation/Test Sets
+  >  * Diagnosing Bias vs. Variance
+  >  * Regularization and Bias/Variance
+  >  * Learning Curves
+  >  * Deciding What to Try Next Revisited
+  > * **Machine Learning System Design**
+  >  * Precision and Recall
+  >  * Trading off Precision and Recall
+  >  * Data for Machine Learning
