@@ -1,4 +1,3 @@
-import numpy as np
 from calc_linear_cost import *
 
 def gradient_descent(x, y, t, a):
