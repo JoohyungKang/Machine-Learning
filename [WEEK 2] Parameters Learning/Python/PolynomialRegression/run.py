@@ -1,9 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from gradient_descent import *
+from numpy import average
 
 # Degree of polynomial
-d = 2;
+d = 5;
 
 # Training Sets
 data = np.loadtxt('TrainingSets.txt', delimiter=',', unpack=True, dtype='int32')
@@ -18,10 +19,14 @@ if len(x) != len(y):
     print('The size of two arrays is different\n')
     exit()
     
+# Normalize features-X
+for i in range(1, d+1):
+    x[:,i] = (x[:,i] - min(x[:,i])) / (max(x[:,i]) - min(x[:,i]))
+    
 # Parameters setting
 theta = np.ones((d+1, 1))
-alpha = 0.0002                          # learning rate
-iters = 80000                           # iteration count
+alpha = 0.7                       # learning rate
+iters = 1000000                   # iteration count
 
 # Optimized parameters (Gradient Descent)
 optimized = gradient_descent(x, y, theta, alpha, iters)
