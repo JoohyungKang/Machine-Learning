@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from gradient_descent import *
-from numpy import average
 
 # Degree of polynomial
 d = 5;
@@ -18,11 +17,11 @@ x = x.T
 if len(x) != len(y):
     print('The size of two arrays is different\n')
     exit()
-    
+
 # Normalize features-X
 for i in range(1, d+1):
     x[:,i] = (x[:,i] - min(x[:,i])) / (max(x[:,i]) - min(x[:,i]))
-    
+
 # Parameters setting
 theta = np.ones((d+1, 1))
 alpha = 0.7                       # learning rate
@@ -35,7 +34,7 @@ optimized = gradient_descent(x, y, theta, alpha, iters)
 print("Parameters : ", optimized)
 
 # Representation : Polynomial function
-polynomial_y = np.dot(x, optimized) 
+polynomial_y = np.dot(x, optimized)
 
 # plot
 plt.plot(x[:,1].T, y, 'r o')

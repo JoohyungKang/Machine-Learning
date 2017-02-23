@@ -6,7 +6,7 @@ from normal_equation import *
 d = 4;
 
 # Training Sets
-data = np.loadtxt('TrainingSets.txt', delimiter=',', unpack=True, dtype='int32')
+data = np.loadtxt('TrainingSets.txt', delimiter=',', unpack=True, dtype=np.longdouble)
 y = data[2:,].T
 x = np.ones((d+1, len(y)))
 # Create the X values: x + x^2 + ... + x^d
@@ -17,7 +17,7 @@ x = x.T
 if len(x) != len(y):
     print('The size of two arrays is different\n')
     exit()
-    
+
 # Parameters setting
 theta = np.ones((d+1, 1))
 
@@ -28,7 +28,7 @@ optimized = normal_equation(x, y, theta)
 print("Parameters : ", optimized)
 
 # Representation : Polynomial function
-polynomial_y = np.dot(x, optimized) 
+polynomial_y = np.dot(x, optimized)
 
 # plot
 plt.title('Learn parameters by Normal Equation')
